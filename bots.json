@@ -1,0 +1,7 @@
+[
+    {
+        "name": "RAB_ROAD",
+        "token": "process.env.TOKEN",
+        "adminIDs": "884202951269290034"
+    }
+]
